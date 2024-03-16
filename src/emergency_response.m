@@ -1,0 +1,3 @@
+function emergency_response
+%%%%%%%%%%%%”¶º±œÏ”¶%%%%%%%%%%%%%%%%%
+end
